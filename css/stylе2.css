@@ -1,0 +1,207 @@
+body {
+    font-family: 'Montserrat', sans-serif;
+    background-color: #E5E5E5;
+}
+
+.main-container-title {
+    font-style: normal;
+    font-weight: bold;
+    font-size: 22px;
+    line-height: 27px;
+    color: black;
+    margin-bottom: 10px;
+}
+
+.main-container {
+    display: flex;
+    flex-direction: row-reverse;
+    width: 1200px;
+    background-color: #F5F7FA;
+    margin: 40px auto;
+    box-shadow: 6px 6px 20px rgba(0, 0, 0, 0.1);
+}
+
+/*Первый абзац*/
+.about-me-profession {
+    font-size: 14px;
+    font-weight: bold;
+    color: black;
+    font-style: normal;
+    line-height: 17px;
+    margin-bottom: 20px;
+
+}
+
+.about-me-name {
+    font-style: normal;
+    font-weight: bold;
+    font-size: 45px;
+    line-height: 55px;
+    color: #000000;
+}
+
+.description {
+    font-style: normal;
+    font-weight: bold;
+    font-size: 14px;
+    line-height: 24px;
+    color: #000000;
+    width: 400px;
+}
+
+.about-me-section {
+
+    margin-bottom: 40px;
+}
+
+/*Второй абзац*/
+.my-projects-section {
+    margin-bottom: 50px;
+}
+
+.my-projеcts-item {
+    color: black;
+}
+
+.projеcts-links {
+    color: #595959;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 14px;
+    line-height: 24px;
+}
+
+.my-projеcts-tеxt {
+    color: #595959;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 14px;
+    line-height: 24px;
+    margin-left: 5px;
+}
+
+.projеcts-things {
+    color: black;
+    font-weight: bold;
+    font-size: 14px;
+    line-height: 24px;
+
+}
+
+/*Третий абзац*/
+.company-section {
+    color: #FB6D3A;
+}
+
+.main-content-section {
+    padding: 100px 90px;
+}
+
+.my-work-need {
+    font-style: normal;
+    font-weight: bold;
+    font-size: 14px;
+    line-height: 24px;
+    color: #595959;
+}
+
+.my-work-experiance-position {
+    font-style: normal;
+    font-weight: bold;
+    font-size: 16px;
+    line-height: 20px;
+    margin-bottom: 10px;
+}
+
+.my-work-got {
+    margin-bottom: 15px;
+}
+
+.ul-section {
+    padding-left: 18px;
+}
+
+.palochka {
+    color: #000000;
+    font-style: bold;
+}
+
+.work-time {
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 15px;
+    color: #A8A8A8;
+    margin-bottom: 10px;
+}
+
+
+/* sidе bar*/
+
+.aside-bar {
+    background-color: #1E2939;
+    width: 370;
+    padding-top: 40px;
+
+}
+
+.contacts-bar,
+.soft-skills,
+.tech-skill {
+    margin: 50px 0 0 40px;
+}
+
+
+
+.side-bar-title {
+    font-style: normal;
+    font-weight: bold;
+    font-size: 22px;
+    line-height: 27px;
+    color: #ffffff;
+    margin-bottom: 10px;
+}
+
+/*контакты*/
+.contacts-links {
+    color: #2C3645;
+    Font-style: normal;
+    font-weight: normal;
+    Font-size: 14px;
+    Line-height: 24px;
+}
+
+.contacts-tipe {
+    font-size: 14px;
+    font-weight: 700;
+    line-height: 24px;
+    color: #ffffff;
+    margin-right: 5px;
+}
+
+/*тех скиллы*/
+.list {
+    padding-left: 17px;
+}
+
+.item {
+    color: #FB6D3A;
+}
+
+.under-item {
+    font-style: normal;
+    font-weight: normal;
+    font-style: 14px;
+    line-height: 24px;
+    color: #ffffff;
+}
+
+.my-projеcts-list {
+    padding: 0 0 0 17px;
+}
+
+.audio {
+    color: #FB6D3A;
+    margin-left: 45px;
+    text-align: center
+}
